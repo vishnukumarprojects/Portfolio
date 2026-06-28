@@ -566,7 +566,7 @@ footer{
         flex-wrap: nowrap;
         justify-content: space-between;
         align-items: center;
-        padding: 8px;
+        padding: 5px;
     }
 
     .nav-bar ul li {
@@ -584,12 +584,12 @@ footer{
 
 
     .nav-bar ul li a {
-        font-size: 10px;
+        font-size: 8px;
         padding: 3px;
     }
 
     .nav-bar ul a {
-        font-size: 10px;
+        font-size: 8px;
     }
 
     .sp {
